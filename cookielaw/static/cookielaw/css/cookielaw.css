@@ -17,3 +17,7 @@
     width: 15px;
     height: 15px;
 }
+
+#CookielawBanner .hidden-unless-js {
+    display: none;
+}
